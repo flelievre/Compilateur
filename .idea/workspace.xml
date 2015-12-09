@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25f5d74c-be3e-4828-aa6a-91a0791bb57d" name="Default" comment="" />
+    <list default="true" id="25f5d74c-be3e-4828-aa6a-91a0791bb57d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/affectation_type.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/condition_type.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/err1.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/err2.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/err3.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/expr1.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/expr2.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/expr3.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/expr4.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/expr5.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/fonction.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/ident_unknown.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/invalid_operation.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/iteration_type.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/name_already_taken.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/nested_conditions.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/nested_functions.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/nested_iterations.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/number_parameters.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/operands_dont_match.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/parameter_type.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ASM/returned_type.asm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Yaka/Paul/affectation_type.yaka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Yaka/Paul/condition_type.yaka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Yaka/Paul/ident_unknown.yaka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Yaka/Paul/invalid_operation.yaka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Yaka/Paul/iteration_type.yaka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Yaka/Paul/name_already_taken.yaka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Yaka/Paul/number_parameters.yaka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Yaka/Paul/operands_dont_match.yaka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Yaka/Paul/parameter_type.yaka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Yaka/Paul/returned_type.yaka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Yaka/Test 1/err1.yaka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Yaka/Test 1/err2.yaka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Yaka/Test 1/err3.yaka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Yaka/Test 1/expr1.yaka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Yaka/Test 1/expr2.yaka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Yaka/Test 1/expr3.yaka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Yaka/Test 1/expr4.yaka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Yaka/Test 1/expr5.yaka" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Yaka.class" afterPath="$PROJECT_DIR$/Yaka.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ASM/boucle.asm" afterPath="$PROJECT_DIR$/ASM/boucle.asm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Compilateur.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,25 +80,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="URLClassLoader.class" pinned="false" current-in-tab="false">
-        <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/net/URLClassLoader.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.0">
-              <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-              <folding>
-                <element signature="e#2673#3392#0" expanded="true" />
-                <element signature="e#3391#3392#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="YVMasm.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/YVMasm.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="e#105#106#0" expanded="false" />
+                <element signature="e#132#133#0" expanded="false" />
+                <element signature="e#4713#4714#0" expanded="false" />
+                <element signature="e#4733#4734#0" expanded="false" />
+                <element signature="e#4757#4758#0" expanded="false" />
+                <element signature="e#4777#4778#0" expanded="false" />
+                <element signature="e#4801#4802#0" expanded="false" />
+                <element signature="e#4821#4822#0" expanded="false" />
+                <element signature="e#4845#4846#0" expanded="false" />
+                <element signature="e#4865#4866#0" expanded="false" />
+                <element signature="e#4893#4894#0" expanded="false" />
+                <element signature="e#4913#4914#0" expanded="false" />
+                <element signature="e#4950#4951#0" expanded="false" />
+                <element signature="e#4974#4975#0" expanded="false" />
+                <element signature="e#6298#6299#0" expanded="false" />
+                <element signature="e#6347#6348#0" expanded="false" />
+                <element signature="e#7275#7276#0" expanded="false" />
+                <element signature="e#7345#7346#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -61,7 +112,7 @@
       <file leaf-file-name="YVM.class" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/YVM.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="12.0">
+            <state vertical-scroll-proportion="4.8">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <element signature="e#0#6843#0" expanded="true" />
@@ -70,11 +121,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Yaka.jj" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Yaka.jj">
+      <file leaf-file-name="Yaka.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Yaka.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5597015">
-              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.41044775">
+              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -176,6 +227,7 @@
     <property name="dynamic.classpath" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="Application.Yaka">
     <configuration default="false" name="Yaka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -350,6 +402,9 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="25f5d74c-be3e-4828-aa6a-91a0791bb57d" name="Default" comment="" />
@@ -361,7 +416,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1260" height="733" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -379,7 +434,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958949" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32917318" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32917318" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -387,6 +442,14 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -411,22 +474,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/net/URLClassLoader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.0">
-          <caret line="87" column="0" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-          <folding>
-            <element signature="e#2673#3392#0" expanded="true" />
-            <element signature="e#3391#3392#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/YVMasm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#105#106#0" expanded="false" />
+            <element signature="e#132#133#0" expanded="false" />
+            <element signature="e#4713#4714#0" expanded="false" />
+            <element signature="e#4733#4734#0" expanded="false" />
+            <element signature="e#4757#4758#0" expanded="false" />
+            <element signature="e#4777#4778#0" expanded="false" />
+            <element signature="e#4801#4802#0" expanded="false" />
+            <element signature="e#4821#4822#0" expanded="false" />
+            <element signature="e#4845#4846#0" expanded="false" />
+            <element signature="e#4865#4866#0" expanded="false" />
+            <element signature="e#4893#4894#0" expanded="false" />
+            <element signature="e#4913#4914#0" expanded="false" />
+            <element signature="e#4950#4951#0" expanded="false" />
+            <element signature="e#4974#4975#0" expanded="false" />
+            <element signature="e#6298#6299#0" expanded="false" />
+            <element signature="e#6347#6348#0" expanded="false" />
+            <element signature="e#7275#7276#0" expanded="false" />
+            <element signature="e#7345#7346#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -452,7 +523,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/YVM.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="12.0">
+        <state vertical-scroll-proportion="4.8">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#6843#0" expanded="true" />
@@ -460,10 +531,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Yaka.jj">
+    <entry file="file://$PROJECT_DIR$/Yaka.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5597015">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.41044775">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
           <folding />
         </state>
       </provider>
